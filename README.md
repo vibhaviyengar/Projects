@@ -1,6 +1,5 @@
 Project Abstracts:
-
-A Comparative Social Media Study: Are applications with self-deleting features the new preference?:
+A Comparative Social Media Study: Are applications with self-deleting features the new preference?
 Applications designed for social media that use "self-deleting" features allow users to post content that automatically gets deleted after a certain amount of time, as opposed to more traditional applications that keep content online by default. We are interested in studying how applications that have "self-deleting" features affect users’ decisions to post certain
 content, compared to more common applications. We narrowed down our study to Snapchat, a popular social media application with a default "self-deleting" feature for all its content, and Facebook, another widely used application that permanently keeps content online. Our study analyzes the different ways people use these applications by having them participate in a two-part study. This study looks at their decisions to specific compromising scenarios and tests their ability to control their privacy settings. Our results suggest that the majority of participants feel more secure about content posted to applications with "self-deleting" features, leading them to trust them more and share more compromising content.
 
