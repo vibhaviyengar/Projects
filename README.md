@@ -1,8 +1,7 @@
 Project Abstracts:
 
-File Analysis: Forensics in the Cloud:
-Analyzing a large set of files is a common use case in forensic investigations. Manually doing this is a daunting task and there is no reason to not use readily available tools to make the problem more tractable. In this project, we explore leveraging cloud-computing resources in building a fast, easily deploy-able, scalable pipeline to automate the process. We also
-proceed to evaluate the pipeline against BinaryAlert, an open source incident response AWS pipeline in terms of processing speed,? ?flexibility,? ?modularity? ?and? ?minimal? ?processing.
+File Analysis-Forensics in the Cloud:
+Analyzing a large set of files is a common use case in forensic investigations. Manually doing this is a daunting task and there is no reason to not use readily available tools to make the problem more tractable. In this project, we explore leveraging cloud-computing resources in building a fast, easily deploy-able, scalable pipeline to automate the process. We also proceed to evaluate the pipeline against BinaryAlert, an open source incident response AWS pipeline in terms of processing speed, flexibility, modularity and minimal processing.
 
 Evaluating MQTT Security with Owntracks and Home Assistant:
 Internet of Things has become a part of people’s everyday life, and many people tend to provide sensitive information like health and location details through them, due to unawareness of its risks. This poses a challenge in meeting the expected security and privacy requirements for IoT devices, opening the scope for malicious behavior. Message Queue Telemetry Transport (MQTT) is one of the widely used communication protocols in the IoT domain, and is prone to become vulnerable when the required security configurations are neglected. This leads to exposure of their personal data out in the network.
